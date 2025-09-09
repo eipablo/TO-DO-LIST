@@ -36,4 +36,4 @@ Este é um aplicativo simples de lista de tarefas (TO-DO LIST) para organizar e 
 Este projeto está sob a licença MIT.
 
 ---
-Feito com 💙 por [Pablo Vinícius Silva Souza](https://www.github.com/eipablo)
+Feito por [Pablo Vinícius Silva Souza](https://www.github.com/eipablo)
