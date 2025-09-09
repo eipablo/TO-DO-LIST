@@ -3,11 +3,11 @@
 :root{
     --dark-background: #121212;
     --light-background: #F5F5F5;
-    --secundary: #00BFA6; /* verde água, bom para contrastar */
+    --secundary: #00BFA6; 
     --text-primary: #333333;
-    --text-secundary: #666666; /* cinza médio para descrições */
-    --details: #FF5C5C; /* avisos ou botões importantes */
-    --primary: #6C63FF; /* roxo suave, chamativo mas não agressivo */
+    --text-secundary: #666666;
+    --details: #FF5C5C; 
+    --primary: #6C63FF; 
 }
 
 *{
@@ -22,6 +22,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    font-size: 16px; 
 }
 
 .container {
@@ -42,24 +43,9 @@ body{
     padding: 20px;
 }
 
-.paragrafo{
-    color: var(--text-secundary);
-    text-align: center;
-}
-
 .destaque{
     color: var(--primary);
     font-weight: bolder;
-}
-
-
-button {
-  padding: 12px 20px; 
-  border: 1px var(--text-secundary) solid; 
-  border-radius: 8px; 
-  font-size: 16px; 
-  cursor: pointer; 
-  transition: 0.3s;
 }
 
 .input {
@@ -99,7 +85,7 @@ button {
   background-color: var(--secundary);
   border: 2px solid #000;
   border-radius: 10px;
-  box-shadow: 5px 5px 0px #000;
+  box-shadow: 3px 3px 0px #000;
   transition: all 0.3s ease;
   cursor: pointer;
 }
