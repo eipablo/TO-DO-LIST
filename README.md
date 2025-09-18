@@ -16,24 +16,5 @@ Este é um aplicativo simples de lista de tarefas (TO-DO LIST) para organizar e 
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
 
-## 📦 Como Usar
-
-1. Clone este repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/TO-DO-LIST.git
-    ```
-2. Instale as dependências:
-    ```bash
-    npm install
-    ```
-3. Inicie o projeto:
-    ```bash
-    npm start
-    ```
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
 ---
 Feito por [Pablo Vinícius Silva Souza](https://www.github.com/eipablo)
